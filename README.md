@@ -1,6 +1,5 @@
-# v12 Boş Altyapı
+# Astra v12 Deneme Botudur
 
-**Çalanlar Hakkında İşlem Yapılacaktır**
+**- Deneme Botu**
 
-- v12 Boş Altyapı
-- Çalanlar Ben Yaptım Diyenler Hakkında işlem yapılacaktır
+**- Yapan : Halil İbrahim...-**
